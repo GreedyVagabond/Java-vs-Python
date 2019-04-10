@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/johnwuller/git/Bot JDAs/Base JDAs/JDA-3.8.3_460-withDependencies.jar" sourcepath="/Users/johnwuller/git/Bot JDAs/Base JDAs/JDA-3.8.3_460-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/johnwuller/git/Bot%20JDAs/Base%20JDAs/JDA-3.8.3_460-javadoc.jar!/"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/johnwuller/git/Bot JDAs/Utilities/jda-utilities-2.1-all.jar" sourcepath="/Users/johnwuller/git/Bot JDAs/Utilities/jda-utilities-2.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/johnwuller/git/Bot%20JDAs/Utilities/jda-utilities-2.1-javadoc.jar!/"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
